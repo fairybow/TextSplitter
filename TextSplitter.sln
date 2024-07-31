@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TextSplitter", "TextSplitter\TextSplitter.vcxproj", "{15D4DC4E-23AF-4FB9-87B0-E9BB35EE482B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15D4DC4E-23AF-4FB9-87B0-E9BB35EE482B}.Debug|x64.ActiveCfg = Debug|x64
+		{15D4DC4E-23AF-4FB9-87B0-E9BB35EE482B}.Debug|x64.Build.0 = Debug|x64
+		{15D4DC4E-23AF-4FB9-87B0-E9BB35EE482B}.Debug|x86.ActiveCfg = Debug|Win32
+		{15D4DC4E-23AF-4FB9-87B0-E9BB35EE482B}.Debug|x86.Build.0 = Debug|Win32
+		{15D4DC4E-23AF-4FB9-87B0-E9BB35EE482B}.Release|x64.ActiveCfg = Release|x64
+		{15D4DC4E-23AF-4FB9-87B0-E9BB35EE482B}.Release|x64.Build.0 = Release|x64
+		{15D4DC4E-23AF-4FB9-87B0-E9BB35EE482B}.Release|x86.ActiveCfg = Release|Win32
+		{15D4DC4E-23AF-4FB9-87B0-E9BB35EE482B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7114983A-03ED-4B1E-A54B-688A2D31CB23}
+	EndGlobalSection
+EndGlobal
